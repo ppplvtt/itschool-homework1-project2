@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Project2</string>
+    <string name="color_red">red</string>
+    <string name="color_green">green</string>
+    <string name="color_blue">blue</string>
+
+    <string name="bold_check_box">Жирный</string>
+    <string name="italic_check_box">Курсив</string>
+    <string name="button_show">Показать</string>
+
 </resources>
